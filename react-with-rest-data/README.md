@@ -8,7 +8,7 @@ You should aim to spend approximately 2 to 3 hours on this exercise.
 ## Task
 
 We are going to set up a single page React application that consumes data via a REST API and displays that data on the page using components.
-The data will come in the form of a list of photos, those should be grouped by album.
+The data will come in the form of a list of photos, these should be grouped by album.
 A user should be able to navigate to view albums and photos without additional API calls. 
 
 
@@ -23,7 +23,7 @@ The project should be executed with the following commands:
 `npm start` for a local development preview.  
 `npm run test` for local unit testing which must pass.
 
-I would recommend using a toolchaing such as https://github.com/facebook/create-react-app as this exercise is not design to test you build configuration knowledge.
+I would recommend using a toolchain such as https://github.com/facebook/create-react-app as this exercise is not designed to test your build configuration knowledge.
 
 
 ## Acceptance criteria
