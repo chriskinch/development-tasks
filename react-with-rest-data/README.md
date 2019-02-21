@@ -59,5 +59,5 @@ I would recommend using a toolchaing such as https://github.com/facebook/create-
 ### Layout
 
     As a user
-    When I browser albums or photos
+    When I browse albums or photos
     I should see items displayed in a responsive 6 column grid
