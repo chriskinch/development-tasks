@@ -9,13 +9,12 @@ You should aim to spend approximately 2 to 3 hours on this exercise.
 
 We are going to set up a single page React application that consumes data via a REST API and displays that data on the page using components.
 The data will come in the form of a list of photos, these should be grouped by album.
-A user should be able to navigate to view albums and photos without additional API calls. 
 
 
 ## Technical details
 
 The REST API that we are using for this example is from: https://jsonplaceholder.typicode.com  
-The particular endpoint that should be called is: `https://jsonplaceholder.typicode.com/photos?_limit=300`
+The particular endpoint that should be called is: `https://jsonplaceholder.typicode.com/photos`
 
 The project should be executed with the following commands:
 
@@ -36,6 +35,7 @@ I would recommend using a toolchain such as https://github.com/facebook/create-r
   - A heading as `[title]`
   - A thumbnail
 - Any unit tests included should pass
+- Items should be displayed in a responsive 1 > 3 > 6 column grid depending on browser width
 
 
 ## Stories
@@ -55,9 +55,3 @@ I would recommend using a toolchain such as https://github.com/facebook/create-r
     As a user
     When I click on a photo
     I should see a larger representation of that photo only
-
-### Layout
-
-    As a user
-    When I browse albums or photos
-    I should see items displayed in a responsive 6 column grid
