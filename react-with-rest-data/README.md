@@ -27,7 +27,7 @@ I would recommend using a toolchain such as https://github.com/facebook/create-r
 
 ## Acceptance criteria
 
-- Photos should be limited to 300 items.
+- Photos should be limited to 300 items total.
 - The album list should display:
   - A heading as `Album [albumId]`
   - A thumbnail of the first photo within the album
