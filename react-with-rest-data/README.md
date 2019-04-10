@@ -13,7 +13,8 @@ The data will come in the form of a list of photos, these should be grouped by a
 
 ## Technical details
 
-The REST API that we are using for this example is from: https://jsonplaceholder.typicode.com  
+The REST API that we are using for this example is from: https://jsonplaceholder.typicode.com
+It is powered by JSON Server and extended documentation can be found here: https://github.com/typicode/json-server
 The particular endpoint that should be called is: `https://jsonplaceholder.typicode.com/photos`
 
 The project should be executed with the following commands:
