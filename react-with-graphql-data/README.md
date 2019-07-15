@@ -27,7 +27,7 @@ I would recommend using a toolchain such as https://github.com/facebook/create-r
 
 ## Acceptance criteria
 
-- The list should contain all 251 Pokemon.
+- The list should contain all 151 Pokemon.
 - The list should display:
   - A small `image` of the Pokemon
   - The Pokemon's `number`
